@@ -1,0 +1,51 @@
+body {
+    font-family: verdana;
+    background-color: aqua;
+    padding: 1rem;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: darkblue;
+    padding: 2rem;
+}
+
+h1 {
+    padding: 2rem;
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+}
+
+h3 {
+    text-align: center;
+}
+
+nav a {
+    color: white;
+}
+
+#add-player {
+    padding: 1rem;
+    border: solid 3px darkblue;
+    text-align: center;
+}
+
+#click-link {
+    padding: 2rem;
+}
+
+#player-data {
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+}
+
+.details-link {
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+}
